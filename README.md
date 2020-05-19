@@ -1,2 +1,2 @@
 # Games
-Games Mde by Sidharth Mahajan
+Games Made by Sidharth Mahajan
